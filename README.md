@@ -38,14 +38,14 @@ I’m passionate about building **scalable web applications**, solving **DSA pro
 
 ## 📌 Featured Projects
 
-🔹 **[💬 Real-Time Chat Application](https://github.com/ManojKandikatla/chat-app)**  
+🔹 **[💬 Real-Time Chat Application](https://github.com/ManojKandikatla/chat-app-fullstack-MERN-.git)**  
 MERN + Socket.IO | User authentication | Real-time messaging
 
-🔹 **[🛒 Dynamic Wishlist](https://github.com/ManojKandikatla/wishlist-app)**  
-Add/remove products | Sort by price | Pop-up notifications
+🔹 **[⛅ Mentiby-Maps](https://github.com/ManojKandikatla/Mentiby-Maps.git)**  
+Angular + Node.js | Custom components | Real-time mapping & visualization
 
-🔹 **[📰 React Blog App](https://github.com/ManojKandikatla/blog-app)**  
-Category-based blogs | Dedicated pages | Trending blogs
+🔹 **[📰 MyDiary](https://github.com/ManojKandikatla/MyDiary-Project-Nodejs.git)**  
+Node.js + Express | Personal diary app | CRUD operations & authentication  
 
 ---
 
