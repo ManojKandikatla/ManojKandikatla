@@ -8,9 +8,10 @@ I’m passionate about building **scalable web applications**, solving **DSA pro
 
 ## 🔥 About Me
 - 🎓 B.Tech in Computer Science & Engineering (Class of 2025)  
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
-- 📚 Practicing **DSA in Java**; familiar with Python basics  
-- 🎮 Gamer — I enjoy playing BGMI  
+- 💻 MERN Stack Developer **(MongoDB, Express, React, Node.js)**  
+- 📚 Practicing **DSA in Java**; familiar with Python basics
+- ✏️ Passionate about Sketching & Illustration
+- 🎮 I enjoy playing BGMI  
 - 🌱 Currently learning **Web Development & DSA**
 
 ---
