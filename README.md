@@ -11,7 +11,7 @@ I’m passionate about building **scalable web applications**, solving **DSA pro
 - 💻 MERN Stack Developer **(MongoDB, Express, React, Node.js)**  
 - 📚 Practicing **DSA in Java**; familiar with Python basics
 - ✏️ Passionate about Sketching & Illustration
-- 🎮 I enjoy playing BGMI  
+- ♟️ I enjoy playing Chess  
 - 🌱 Currently learning **Web Development & DSA**
 
 ---
