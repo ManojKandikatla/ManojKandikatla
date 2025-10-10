@@ -64,7 +64,7 @@ Node.js + Express | Personal diary app | CRUD operations & authentication
 
 - 💼 LinkedIn: https://www.linkedin.com/in/k-manojkumar-986a452a6  
 - 📧 Email: **kandikatlamanojkumar07@gmail.com**  
-- 🌐 Portfolio: ( I will add link when ready)
+- 🌐 Portfolio: https://manojkumar-portfolio-07.vercel.app
 
 ---
 
